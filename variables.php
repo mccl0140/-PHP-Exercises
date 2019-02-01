@@ -21,7 +21,6 @@ echo "Welcome to ${language}!";
 Print greeting.
 */
 
-
 // task separator
 echo "<hr style=\"margin 1rem 0\">";
 
@@ -67,8 +66,6 @@ Print assembled.
 */    
 echo $assembled;
 
-
-
 // task separator
 echo "<hr style=\"margin 1rem 0\">";
 
@@ -99,7 +96,6 @@ Print area.
 */
 
 echo $area;
-
 
 // task separator
 echo "<hr style=\"margin 1rem 0\">";
@@ -139,7 +135,6 @@ Concatenate the variables and string literals to print the statement:
 armchair: $295.44
 */
 echo "$product = $total";
-
 
 // task separator
 echo "<hr style=\"margin 1rem 0\">";
